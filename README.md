@@ -4,7 +4,7 @@
 
 
 # Excel - Pivot table,Pivot Charts, Calculated Column 
-## Chart depicting Bike sales conducted by women. <img src='images/Sales .png' alt='Sales Image'>
+## Chart depicting Bike sales conducted by women's. <img src='images/Sales .png' alt='Sales Image'>
 
 # Data-Analytics-Certifications
 [IBM Introduction to Data Analytics by Coursera](https://coursera.org/share/e4555cc5e39047fba9914ec9aa33ab61)
