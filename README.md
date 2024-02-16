@@ -1,6 +1,8 @@
 # SQL - Data Exploration 
 <a href='Project 1 - Data Exploration.sql'>Project 1 - Data Exploration.sql</a>
 
+[FreeCodeCamp : PostgreSQL database dump](https://github.com/Juveria-Dalvi/Relational-Database-beta-FreeCodeCamp/universe.sql)
+
 [The-SQL-Murder-Mystery](https://github.com/Juveria-Dalvi/The-SQL-Murder-Mystery)
 
 # BI Tools - PowerBI & Tableau
