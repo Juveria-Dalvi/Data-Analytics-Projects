@@ -1,5 +1,7 @@
 # BI Tools - PowerBI & Tableau
 [ AirBnB Full Project - Tableau](https://public.tableau.com/views/AirBnBFullProject_17048434183610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+<img src='images/.png' alt='Sales Image'>
+
 
 # Excel - Pivot table,Pivot Charts, Calculated Column 
 ## Chart depicting Bike sales conducted by women. <img src='images/Sales .png' alt='Sales Image'>
