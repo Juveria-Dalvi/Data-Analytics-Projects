@@ -6,7 +6,7 @@
 [The-SQL-Murder-Mystery](https://github.com/Juveria-Dalvi/The-SQL-Murder-Mystery)
 
 # EDA with Pandas 
-<a href='Weather_Forecast_Report.html'>Weather Forecast EDA Using Pandas</a>
+## EDA using pandas - Weather Forecasting - Python <img src='images/EDA using pandas - Weather Forecasting' alt='Weather Forecasting'>
 
 # BI Tools - PowerBI & Tableau
 ## [ AirBnB Full Project - Tableau](https://public.tableau.com/views/AirBnBFullProject_17048434183610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
